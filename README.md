@@ -1,6 +1,3 @@
-- im @doctype-html (aka sarah)
-- probably will be pretty inactive because of life and trying to (*shudders*) socialize???
-- programming languages: HTML/CSS, python. currently learning JS
-- current project: python script to rotate thru passwords
-- future projects?: python script 2 create a discord bot to remind me and repeat reminders (i have adhd)
-- bye
+- im sarah :3
+- i am an incoming csec student
+- probably will be a inactive but will eventually be active sometime this summer
