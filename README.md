@@ -1,3 +1,1 @@
-- im sarah :3
-- i am an incoming csec student
-- probably will be a inactive but will eventually be active sometime this summer
+
