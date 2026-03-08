@@ -1,4 +1,4 @@
-<h2>$whoami - <a href="github.com/doctype-html" style="text-color: #ACFF70;">doctype-html</a> of course</h2>
+<h2>$whoami - <a href="github.com/doctype-html" style="text-color: #ACFF70;">doctype-html</a> of course!</h2>
 <hr />
 
 <h3>hi! i'm <strong style="text-color: #ACFF70;">sarah</strong>, and here are a few things about me!</h3>
