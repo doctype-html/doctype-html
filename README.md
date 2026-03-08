@@ -16,9 +16,8 @@
 
 <h4>my stats:</h4>
 <hr />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctype-html&show_icons=true&locale=en&theme=dark" alt="doctype-html top used languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=doctype-html&show_icons=true&hide=stars&locale=en" alt="doctype-html top stats" /></p>
-<p><img src ="https://github.com/doctype-html/doctype-html/blob/output/github-contribution-grid-snake.svg"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doctype-html&show_icons=true&locale=en&layout=compact" alt="doctype-html" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doctype-html&show_icons=true&locale=en" alt="doctype-html" /></p>
   
 <h4>buy me a coffee!</h4>
 <hr />
