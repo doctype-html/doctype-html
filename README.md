@@ -12,5 +12,5 @@
   <li>Once I have the time to, I'd love to work on some projects in the future that I can open-source.</li>
 </ul>
 
-<p><strong>Buy me a coffee here:</strong></p>
+<p><strong>And I love coffee. Buy me a coffee here:</strong></p>
 <p><a href="https://ko-fi.com/serabytes"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="buy me a coffee through this link" /></a></p>
