@@ -1,4 +1,4 @@
-<h2>$whoami - <a href="github.com/doctype-html" style="text-color: #ACFF70;">doctype-html</a></h2>
+<h1>$whoami - <a href="github.com/doctype-html" style="text-color: #ACFF70;">doctype-html</a></h1>
 
 <h3>HELLO!</h3>
 <p>I'm <strong>Sarah</strong>—a cybersecurity student born and raised in Upstate New York! I am currently looking for an internship, most specifically one that specializes in <strong>blue teaming</strong> and/or <strong>governance and public policy</strong>.</p>
