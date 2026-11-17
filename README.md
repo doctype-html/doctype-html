@@ -6,9 +6,10 @@
 <p>Here are a few facts about me:</p>
 <ul>
   <li>I work an IT helpdesk job part-time while studying!</li>
-  <li>I have a cat back at home; her name is Jolene and she is really cute</li>
-  <li>I am an audiophile and a massive enjoyer of experimental music</li>
-  <li>Once I have the time to, I'd love to work on some projects in the future that I can open-source</li>
+  <li>I have a cat back at home; her name is Jolene and she is really cute!</li>
+  <li>I am an audiophile and a massive enjoyer of experimental music.</li>
+  <li>When I am not studying or working, I'm probably reading.</li>
+  <li>Once I have the time to, I'd love to work on some projects in the future that I can open-source.</li>
 </ul>
 
 <p><strong>Buy me a coffee here:</strong></p>
