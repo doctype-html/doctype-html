@@ -10,7 +10,7 @@
   <li>I am an audiophile and an enjoyer of experimental music.</li>
   <li>When I am not studying or working, I'm probably reading.</li>
   <li>I will defend HTML with all of my big beautiful heart.</li>
-  <li>Once I have the time to, I'd love to work on some projects in the future that I can open-source.</li>
+  <li>Alongside my Cybersecurity degree, I am also minoring in Spanish and taking courses in technology-related Public Policy.</li>
 </ul>
 
 <p><strong>And I love coffee. Buy me a coffee here:</strong></p>
